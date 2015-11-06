@@ -100,7 +100,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        // text-decoration: underline;
     }
 }
 
@@ -199,8 +199,8 @@ pre {
         height: 16px;
         vertical-align: middle;
 
-        path {
+        /*path {
             fill: $grey-color;
-        }
+        }*/
     }
 }

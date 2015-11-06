@@ -1,15 +1,3 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
 
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+Managed and maintained by ikeyuan@gmail.com in his spare time.

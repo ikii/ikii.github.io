@@ -6,7 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ike Y
+title: My site (in progress)
+author: Ike Y.
 email: ikeyuan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   No current aim for this site at the moment,
