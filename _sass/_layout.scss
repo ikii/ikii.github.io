@@ -99,7 +99,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding-top: $spacing-unit;
 }
 
 .footer-heading {
@@ -245,8 +245,6 @@
  * Disqus comments thread
  */
 .page-comment-block {
-    border-top: 1px solid $grey-color-light;
+    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    margin-left: -$spacing-unit / 2;
-    margin-right: -$spacing-unit / 2;
 }

@@ -197,10 +197,14 @@ pre {
         display: inline-block;
         width: 16px;
         height: 16px;
-        vertical-align: middle;
+        vertical-align: text-top;
 
         /*path {
             fill: $grey-color;
         }*/
     }
 }
+.icon-rss:hover .foreground {fill: orange;}
+.icon-mail:hover .foreground {fill: red;}
+.icon-twitter:hover .foreground {fill: #2aa9e0;}
+.icon-github:hover .foreground {fill: black;}
